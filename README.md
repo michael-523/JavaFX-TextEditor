@@ -1,7 +1,7 @@
 # JavaFX-TextEditor
 A lightweight text edditor build with JavaFX. Provides basic file operations (open, save, save as) and an integrated spell checker that compares words against a dictionary file and suggests correctoins.
 
-# # Features
+# Features
 * File Management
 * * Open existing text files.
   * Save changes to current file.
@@ -12,5 +12,5 @@ A lightweight text edditor build with JavaFX. Provides basic file operations (op
 * GUI
 * * GUI build on JavaFX.
  
-# # Download
+# Download
 To download the program, download or clone the project and run it in a program such as Eclipse, or a similar program to edit Maven projects. Then run the application from App.java.
