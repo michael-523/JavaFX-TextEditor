@@ -3,7 +3,7 @@ A lightweight text edditor build with JavaFX. Provides basic file operations (op
 
 # Features
 * File Management
-* * Open existing text files.
+  * Open existing text files.
   * Save changes to current file.
   * Save As to create a new file.
 * Spell Checking
